@@ -1,0 +1,4 @@
+import IPython
+url = 'https://www.pythonanywhere.com/embedded3/'
+iframe = ''
+IPython.display.HTML(iframe)
